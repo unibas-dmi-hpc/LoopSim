@@ -1,4 +1,4 @@
-## Loop-simulator
+## LoopSim
 Simulates the execution of loop iterations, where each loop iteration is considered an independent sequential computational task, on multicore HPC cluster.
 The simulator is based on SimGrid simulation toolkit (https://github.com/simgrid/simgrid) and uses its SimDag interface.
 The simulator employs self-scheduling approach to load balance the loop execution.
